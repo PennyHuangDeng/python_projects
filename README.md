@@ -1,2 +1,2 @@
-# python_visualization
+# python
 Use python for visualization
