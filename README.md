@@ -1,2 +1,2 @@
 # python
-Use python for visualization
+Use python for project
